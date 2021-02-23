@@ -1,0 +1,35 @@
+<mjml>
+  <mj-body>
+    <!-- Header -->
+    <!-- CONTENU -->
+ <mj-section>     
+      <mj-column padding="0">
+
+        <mj-text font-family="Arial" font-size="26px" color="#8aa49a" font-weight="400" padding="15px 15px 20px 30px">Encore <img src="img/plus.png" alt="Plus" width="26px" height="auto"style="vertical-align:middle;"/>&nbsp;pratique !</mj-text>
+      </mj-column>
+    </mj-section>    
+  
+    
+    
+    <mj-section>
+    <mj-column>
+      
+      <mj-table padding-bottom="4px">
+              <tbody>
+              <tr>
+               <td width="23" height="25px" align="left" valign="middle"><img src="img/plus.png" alt="" width="23px" height="25px" vertical-align="middle" style="vertical-align:middle;font-size:1;"/></td>
+               <td align="left" height="22px" valign="middle">
+                 <span style="font-family:Arial;font-weight:bold;font-size:22px;color:#fc4c02">&nbsp;Focus</span>
+               </td>
+                </tr>
+              </tbody>
+        </mj-table>
+      
+      
+      </mj-column>
+    </mj-section>
+    
+    
+    
+  </mj-body>
+</mjml>
